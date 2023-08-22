@@ -26,7 +26,6 @@ Email: m.boden@uq.edu.au
 
 import string, sys, re, math, os, array
 import numpy
-from webservice import *
 from sym import *
 from prob import *
 
